@@ -1,5 +1,8 @@
-PHP Framework Interoperability Group
-====================================
+PHP Framework Interoperability Group (PacketViper Fork)
+=======================================================
+**_!!Important!!_ This repository is a fork used by PacketViper developers to keep
+track of the differences between the PHP-FIG standards and those which
+have been adopted in-house.**
 
 The idea behind the group is for project representatives to talk about the
 commonalities between our projects and find ways we can work together. Our main
