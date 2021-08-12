@@ -153,12 +153,12 @@ class Foo
 
 ### 4.2. Properties
 
-This guide intentionally avoids any recommendation regarding the use of
-`$StudlyCaps`, `$camelCase`, or `$under_score` property names.
+The original fig-standard intentionally avoids any recommendation
+regarding the use of `$StudlyCaps`, `$camelCase`, or `$under_score` property
+names.
 
-Whatever naming convention is used SHOULD be applied consistently within a
-reasonable scope. That scope may be vendor-level, package-level, class-level,
-or method-level.
+**However,** at PacketViper we have adopted the convention that:
+Property names MUST be declared using `->under_score`.
 
 ### 4.3. Methods
 
